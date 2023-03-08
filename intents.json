@@ -1,0 +1,11 @@
+{"intents":[
+  {"tag": "greetings",
+    "patterns":["assu","hello","merhaba","hey","hi","good day","selam"],
+    "responses":["Hello!","Hey!","What can I do for you?","Assuli","Em Hotep"]
+},
+  {"tag":"name",
+    "patterns":["What is your name","who are you","what should I call you","adın ne","isim"],
+    "responses":["My name is ChatBot001","You can call me CatBot001","ChatBot001"]}
+   },
+  
+]}
